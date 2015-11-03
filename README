@@ -1,0 +1,4 @@
+A tool for counting how often two words appear within a specified proximity of each other in texts. Used for research on historical corpuses.
+
+Language: python
+
